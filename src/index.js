@@ -12,5 +12,5 @@ app.use(express.json());
 
 app.use('/api/students', studentRoutes);
 
-app.listen(3000);
-console.log('Servidor levantado en puerto: ', 3000);
+app.listen(3500);
+console.log('Servidor levantado en puerto: ', 3500);
